@@ -20,3 +20,5 @@ Currently (autumn 2016) application contains backend written in Elixir programmi
 I'm trying to stay up to date to industry and develop new approach by myself. I have a lot of personal project for testing purpose (e.g. Android app in C++, some Ruby applications, haskell, scala, etc.).
 
 I like music (I'm trumphet player), running, cycling, history (XIX and XX cenury) and books.
+
+Ps. All texts on this page is my provate opinions and I don't represent any company or organization.
